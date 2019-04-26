@@ -1,0 +1,28 @@
+main:
+  - title: "home"
+    url: /
+    # - title: "nieuws"
+    #   url: /nieuws
+    # - title: "vragen"
+    #   url: /vaak-gestelde-vragen
+  - title: "contact"
+    description: Onze contact informatie.
+    url: /contact.html
+
+side:
+    - title: "MegaWattPuur"
+      children:
+        - title: "Wie zijn wij?"
+          url: /wie-zijn-wij.html
+        - title: "Voor wie?"
+          url: /voor-wie.html
+        - title: "Wat is een REScoop?"
+          url: /wat-is-een-rescoop.html
+          # - title: "Nieuws"
+          #   url: /nieuws
+          # - title: "Vaak gestelde vragen"
+          #   url: /vaak-gestelde-vragen
+          # - title: "Raad van bestuur"
+          #   url: /raad-van-bestuur
+        - title: "Contact"
+          url: /contact.html
