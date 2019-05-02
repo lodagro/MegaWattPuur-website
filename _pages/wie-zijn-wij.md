@@ -1,7 +1,14 @@
 ---
 permalink: /wie-zijn-wij
 title: Wie zijn wij?
-gallery:
+
+gallery1:
+  - image_path: /assets/images/logo_Vormingplus.jpg
+    alt: "Vorminplus Waas&Dender logo"
+  - image_path: /assets/images/logo_Interwaas.jpg
+    alt: "Interwaas logo"
+
+gallery2:
   - image_path: /assets/images/logo.jpg
     alt: "MegaWattPuur logo"
   - image_path: /assets/images/2018-snapshot-bestuursvergadering.jpg
@@ -11,15 +18,18 @@ gallery:
 
 Wij zijn een vereniging van geëngageerde **burgers** uit het **Waasland** die
 besloten hebben om volledig onbezoldigd een **burgercoöperatie** rond duurzame
-energie en hernieuwbare energie op te richten.
+en hernieuwbare energie op te richten. Dit doen we in samenwerking met
+[Vormingplus Waas&Dender][Vormingplus] en [Interwaas][Interwaas].
 
-We hebben voor de naam **MegawattPuur** gekozen omdat we hiermee aanduiden wat
+{% include gallery id="gallery1" %}
+
+We hebben voor de naam **MegaWattPuur** gekozen omdat we hiermee aanduiden wat
 wij willen: het versnellen van de energietransitie naar propere en hernieuwbare
 energie. We zetten in op goed ontwikkelde technieken zoals fotovoltaïsche
 zonnepanelen, windenergie, warmtenetten en staan open voor de vernieuwingen in
 de energiesector.
 
-{% include gallery %}
+{% include gallery id="gallery2" %}
 
 Wij zijn een CVBA met een sociaal oogmerk. Wij willen financieel rendabele
 projecten realiseren en de opbrengsten ervan investeren in de doelstellingen
@@ -43,10 +53,13 @@ behulp van o.a. de financiële inbreng van de lokale bevolking. Burgers krijgen
 de kans om coöperant te worden door het aankopen van aandelen en zo te genieten
 van de opbrengsten van lokaal geoogste energie.
 
-[Voor wie?](/voor-wie){: .btn .btn--primary .btn--x-large}
+[Voor wie?](/voor-wie.html){: .btn .btn--primary .btn--x-large}
 
 
 [ica]: https://www.icakompas.be/homepage/inleiding/de-7-ica-principes
+[Vormingplus]: http://www.vormingpluswd.be/
+[Interwaas]: https://www.interwaas.be/
+
 
 *[ICA]: internationale coöperatieve alliantie
 *[CVBA]: Coöperatieve Vennootschap met Beperkte Aansprakelijkheid
