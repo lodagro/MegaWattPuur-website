@@ -8,4 +8,4 @@ serve:
 
 .PHONY:release
 release: site
-	cd _site; rsync -PaAXz . $(USER)@$(WEB_SERVER):$(SITE_PATH)
+	cd _site; rsync --delete -PaAXz . $(USER)@$(WEB_SERVER):$(SITE_PATH)
