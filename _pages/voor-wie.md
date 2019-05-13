@@ -15,4 +15,7 @@ partij gebeurt.
 Vanuit de coöperatie willen we die projecten kunnen realiseren om versnelling
 te brengen in de energietransitie.
 
+Heb je interesse in een samenwerking met ons, neem dan contact op via
+[info@megawattpuur.be](mailto:info@megawattpuur.be).
+
 ![Brighton energy cooperanten voor PV en WT](/assets/images/brighton_energy_cooperanten_voor_PV_en_WT.gif)
