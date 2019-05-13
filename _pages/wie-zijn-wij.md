@@ -1,5 +1,5 @@
 ---
-permalink: /wie-zijn-wij
+permalink: /wie-zijn-wij/
 title: Wie zijn wij?
 
 gallery1:
@@ -53,7 +53,7 @@ behulp van o.a. de financiële inbreng van de lokale bevolking. Burgers krijgen
 de kans om coöperant te worden door het aankopen van aandelen en zo te genieten
 van de opbrengsten van lokaal geoogste energie.
 
-[Voor wie?](/voor-wie.html){: .btn .btn--primary .btn--x-large}
+[Voor wie?](/voor-wie){: .btn .btn--primary .btn--x-large}
 
 
 [ica]: https://www.icakompas.be/homepage/inleiding/de-7-ica-principes

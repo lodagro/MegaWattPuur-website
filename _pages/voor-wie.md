@@ -1,5 +1,5 @@
 ---
-permalink: /voor-wie
+permalink: /voor-wie/
 title: Voor wie?
 ---
 

@@ -7,17 +7,17 @@ main:
     #   url: /vaak-gestelde-vragen
   - title: "contact"
     description: Onze contact informatie.
-    url: /contact.html
+    url: /contact
 
 side:
     - title: "MegaWattPuur"
       children:
         - title: "Wie zijn wij?"
-          url: /wie-zijn-wij.html
+          url: /wie-zijn-wij
         - title: "Voor wie?"
-          url: /voor-wie.html
+          url: /voor-wie
         - title: "Wat is een REScoop?"
-          url: /wat-is-een-rescoop.html
+          url: /wat-is-een-rescoop
           # - title: "Nieuws"
           #   url: /nieuws
           # - title: "Vaak gestelde vragen"
@@ -25,4 +25,4 @@ side:
           # - title: "Raad van bestuur"
           #   url: /raad-van-bestuur
         - title: "Contact"
-          url: /contact.html
+          url: /contact

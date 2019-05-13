@@ -1,5 +1,5 @@
 ---
-permalink: /wat-is-een-rescoop
+permalink: /wat-is-een-rescoop/
 title: Wat is een REScoop?
 ---
 
