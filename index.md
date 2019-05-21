@@ -6,15 +6,15 @@ feature_row1:
   - image_path: /assets/images/logo.jpg
     alt: "MegaWattPuur logo"
     title: "Wie zijn wij?"
-    url: "/wie-zijn-wij.html"
+    url: "/wie-zijn-wij/"
   - image_path: /assets/images/brighton_energy_cooperanten_voor_PV_en_WT.gif
     alt: "Brighton energy cooperanten voor PV en WT"
     title: "Voor wie?"
-    url: "/voor-wie.html"
+    url: "/voor-wie/"
   - image_path: /assets/images/logo_REScoop_be-small.png
     alt: "REScoop.be logo"
     title: "REScoop?"
-    url: "/wat-is-een-rescoop.html"
+    url: "/wat-is-een-rescoop/"
 ---
 
 <div>
