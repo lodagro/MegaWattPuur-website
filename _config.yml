@@ -142,7 +142,7 @@ footer:
       url: https://www.facebook.com/MegaWattPuur
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: TODO
+      url: https://www.instagram.com/MegaWattPuur
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
