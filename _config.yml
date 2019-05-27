@@ -143,9 +143,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/MegaWattPuur
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    - label: "nieuwsbrief"
+      icon: "fab fa-fw fa-twitch"
+      url: /nieuwsbrief/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
