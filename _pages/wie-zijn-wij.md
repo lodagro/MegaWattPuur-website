@@ -8,7 +8,16 @@ gallery1:
   - image_path: /assets/images/logo_Interwaas.jpg
     alt: "Interwaas logo"
 
-gallery2:
+gallery2a:
+  - image_path: /assets/images/logo_europees_landbouwfonds.jpg
+    alt: "Europees landbouwfonds logo"
+gallery2b:
+  - image_path: /assets/images/logo_provincie_oost-vlaanderen.jpg
+    alt: "Provincie Oost-Vlaanderen logo"
+  - image_path: /assets/images/logo_vlaamse_landmaatschappij.jpg
+    alt: "Vlaamse Landmaatschappij logo"
+
+gallery3:
   - image_path: /assets/images/logo.jpg
     alt: "MegaWattPuur logo"
   - image_path: /assets/images/2018-snapshot-bestuursvergadering.jpg
@@ -23,13 +32,18 @@ en hernieuwbare energie op te richten. Dit doen we in samenwerking met
 
 {% include gallery id="gallery1" %}
 
+En met steun van het PDPO-project "Hernieuwbare Energie in Wase steden en Velden”.
+
+{% include gallery id="gallery2a" %}
+{% include gallery id="gallery2b" %}
+
 We hebben voor de naam **MegaWattPuur** gekozen omdat we hiermee aanduiden wat
 wij willen: het versnellen van de energietransitie naar propere en hernieuwbare
 energie. We zetten in op goed ontwikkelde technieken zoals fotovoltaïsche
 zonnepanelen, windenergie, warmtenetten en staan open voor de vernieuwingen in
 de energiesector.
 
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery3" %}
 
 Wij zijn een CVBA met een sociaal oogmerk. Wij willen financieel rendabele
 projecten realiseren en de opbrengsten ervan investeren in de doelstellingen
