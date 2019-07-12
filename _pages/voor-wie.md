@@ -3,12 +3,23 @@ permalink: /voor-wie/
 title: Voor wie?
 ---
 
-We richten ons zowel op de non-profit sector als op de bedrijven die samen met
-de coöperatie een concreet project willen uitwerken.
+Wat kan je als individu doen aan het probleem van de klimaatopwarming? Niet
+veel, toch? Elise Steyaert van de REScoop Klimaan uit Mechelen is het daar niet
+mee eens, en wij ook niet. Je kan de handen in elkaar slaan met medeburgers om
+je eigen groene energie op te wekken bijvoorbeeld. De zon en de wind zijn van
+ons allemaal, de energie die ze leveren kan dat ook worden. We kunnen allemaal
+aandeelhouder worden van de oplossing!
+
+<iframe 
+src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcanvastv%2Fvideos%2F701220276997366%2F&show_text=0"
+width="100%" height="550" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Samen met burgers richten we ons zowel op de non-profit sector als op bedrijven
+die met MegaWattPuur een concreet project willen uitwerken.
 
 Bedrijven of organisaties uit de non-profit sector of lokale besturen ontbreken
 vaak de financiële mogelijkheden om te investeren in duurzame energie, of zijn
-gebonden door een bepaalde bedrijfspolicy waardoor zij wel geïnteresseerd zijn
+gebonden door een bepaald bedrijfsbeleid waardoor zij wel geïnteresseerd zijn
 in de duurzame energieprojecten indien de financiering ervan door een derde
 partij gebeurt.
 
