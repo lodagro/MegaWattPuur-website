@@ -1,10 +1,10 @@
 main:
   - title: "home"
     url: /
-    # - title: "nieuws"
-    #   url: /nieuws
-    # - title: "vragen"
-    #   url: /vaak-gestelde-vragen
+  - title: "nieuws"
+    url: /nieuws.html
+# - title: "vragen"
+#   url: /vaak-gestelde-vragen
   - title: "contact"
     description: Onze contact informatie.
     url: /contact
@@ -18,8 +18,8 @@ side:
           url: /voor-wie
         - title: "Wat is een REScoop?"
           url: /wat-is-een-rescoop
-          # - title: "Nieuws"
-          #   url: /nieuws
+        - title: "Nieuws"
+          url: /nieuws.html
           # - title: "Vaak gestelde vragen"
           #   url: /vaak-gestelde-vragen
           # - title: "Raad van bestuur"

@@ -1,8 +1,8 @@
 ---
 layout: splash
-image:
+entries_layout: grid
 
-feature_row1:
+feature_row:
   - image_path: /assets/images/logo.jpg
     alt: "MegaWattPuur logo"
     title: "Wie zijn wij?"
@@ -17,7 +17,7 @@ feature_row1:
     url: "/wat-is-een-rescoop/"
 ---
 
-<div>
+<div class="notice--info">
 
   <h1>Welkom bij MegaWattPuur. </h1>
 
@@ -28,6 +28,19 @@ feature_row1:
   Waasland.</p>
 
 </div>
-{: .notice--info}
 
-{% include feature_row id="feature_row1"%}
+{% include feature_row %}
+
+
+<div class="archive">
+<section class="taxonomy__section">
+<div class="entries-grid">
+<div class="grid__item">
+<a href="/nieuws.html" class="btn btn--primary">bekijk alle berichten</a>
+</div>
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
+</section>
+</div>

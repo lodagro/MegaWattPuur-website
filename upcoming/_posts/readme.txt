@@ -5,3 +5,4 @@ andere mogelijke posts
 * storm windturbines --> vraag voor burgerparticipatie
 * brief aan alle Wase besturen
 * artikel Groen Waasland (na publicatie)
+* wind voor iedereen event Greenpeace
