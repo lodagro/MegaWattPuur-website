@@ -22,6 +22,8 @@ terugvloeit naar de burger. Op die manier verklaar je je onafhankelijk van
 grote energiebedrijven, geniet je van concurrentiële tarieven en maak je je
 eigen stad of dorp veerkrachtiger.
 
+Je kan de presentatie bekijken via deze [link][url-presentatie].
+
 
 <figure class="third">
   <img src="/assets/images/2019-10-24-voorstelling-megawattpuur-03.jpeg">
@@ -29,3 +31,6 @@ eigen stad of dorp veerkrachtiger.
   <img src="/assets/images/2019-10-24-voorstelling-megawattpuur-01.jpeg">
   <figcaption>24 oktober 2019 - Vormingplus Waas-en-Dender</figcaption>
 </figure>
+
+
+[url-presentatie]: /assets/2019-10-24_presentatie_MWP_Vormingplus.pdf
