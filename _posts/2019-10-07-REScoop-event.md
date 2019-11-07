@@ -11,7 +11,7 @@ Greenpeace-schip Rainbow Warrior het evenement 'De wind waait voor iedereen: te
 land ter zee en in de lucht'.
 
 Europa, België en ook Vlaanderen zetten volop in op hernieuwbare energie. Dat
-is noodzakelijk én urgent als we de CO2-uitstoot en luchtverontreiniging
+is noodzakelijk én urgent als we de CO₂-uitstoot en luchtverontreiniging
 veroorzaakt door fossiele brandstoffen willen terugdringen.
 
 Duurzame energie halen we uit zon, waterkracht en biomassa, en voor een heel
