@@ -1,4 +1,6 @@
 ---
+header:
+  teaser: /assets/images/2019-11-7-transitie-zele.jpg
 title: Transitie Zele
 tags: [transitie, Zele]
 ---
@@ -24,11 +26,11 @@ Hun doelstellingen zijn:
 Tijdens de voorbije jaren heeft dit zich al vertaald in talloze kleine en
 minder kleine initiatieven waarvan de voornaamste zijn:
 
-- actieve deelname aan de Milieuraad
-- verschillende succesvolle kledingswaps die we organiseerden
-- enkele sprekers naar Zele gehaald (Low Impact Man, Nic Balthasar)
-- enkele films vertoond (Al Gore, Demain, Peak Oil, enz..)
-- het oprichten van een volkstuin in Zele die momenteel reeds 6 jaar met veel succes draait
+* actieve deelname aan de Milieuraad
+* verschillende succesvolle kledingswaps die we organiseerden
+* enkele sprekers naar Zele gehaald (Low Impact Man, Nic Balthasar)
+* enkele films vertoond (Al Gore, Demain, Peak Oil, enz..)
+* het oprichten van een volkstuin in Zele die momenteel reeds 6 jaar met veel succes draait
 
 Sinds een tweetal jaar zijn ze op zoek naar een koppeling tussen de
 goedbedoelde inititatieven hierboven (met al bij al beperkte impact) en de
