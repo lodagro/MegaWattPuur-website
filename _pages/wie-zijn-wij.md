@@ -45,11 +45,11 @@ de energiesector.
 
 {% include gallery id="gallery3" %}
 
-Wij zijn een CVBA met een sociaal oogmerk. Wij willen financieel rendabele
-projecten realiseren en de opbrengsten ervan investeren in de doelstellingen
-van de coöperatie. We willen meewerken aan het klimaat-neutraal maken van onze
-regio. Het sociaal oogmerk zal worden uitgewerkt in projecten die de
-gemeenschap ten goede komen.
+Wij zijn een coöperatieve vennootschap met sociaal oogmerk (kortweg CVSO). Wij
+willen financieel rendabele projecten realiseren en de opbrengsten ervan
+investeren in de doelstellingen van de coöperatie. We willen meewerken aan het
+klimaat-neutraal maken van onze regio. Het sociaal oogmerk zal worden
+uitgewerkt in projecten die de gemeenschap ten goede komen.
 
 We baseren ons coöperatief model op de [ICA][ica] principes. Dit houdt in dat
 we een open en vrijwillig lidmaatschap hebben en democratische controle door de
@@ -76,5 +76,4 @@ van de opbrengsten van lokaal geoogste energie.
 
 
 *[ICA]: internationale coöperatieve alliantie
-*[CVBA]: Coöperatieve Vennootschap met Beperkte Aansprakelijkheid
 *[REScoop.Vlaanderen]: Vlaamse Federatie van verenigingen en coöperaties van burgers voor hernieuwbare energie
