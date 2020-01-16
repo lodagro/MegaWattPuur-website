@@ -13,5 +13,3 @@ info@megawattpuur.be
     <li><a href="/nieuwsbrief/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitch" aria-hidden="true"></i> nieuwsbrief</a></li> 
   </ul>
 </div>
-
-![logo](/assets/images/logo.jpg)
