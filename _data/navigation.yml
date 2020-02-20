@@ -24,7 +24,5 @@ side:
           #   url: /vaak-gestelde-vragen
           # - title: "Raad van bestuur"
           #   url: /raad-van-bestuur
-        - title: "Nieuwsbrief"
-          url: /nieuwsbrief
         - title: "Contact"
           url: /contact
