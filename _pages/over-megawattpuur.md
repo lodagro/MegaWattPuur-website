@@ -1,8 +1,8 @@
 ---
 header:
  image: /assets/images/2020-02-20_nieuwsbrief_groepsfoto.png
-permalink: /wie-zijn-wij/
-title: Wie zijn wij?
+permalink: /over-MegaWattPuur/
+title: Over MegaWattPuur
 
 gallery1:
   - image_path: /assets/images/logo_Vormingplus.jpg
@@ -69,7 +69,7 @@ behulp van o.a. de financiële inbreng van de lokale bevolking. Burgers krijgen
 de kans om coöperant te worden door het aankopen van aandelen en zo te genieten
 van de opbrengsten van lokaal geoogste energie.
 
-[Voor wie?](/voor-wie){: .btn .btn--primary .btn--x-large}
+[Meedoen?](/meedoen){: .btn .btn--primary .btn--x-large}
 
 
 [ica]: https://www.icakompas.be/homepage/inleiding/de-7-ica-principes

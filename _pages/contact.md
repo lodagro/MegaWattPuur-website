@@ -5,12 +5,6 @@ title: contact
 
 info@megawattpuur.be
 
-BTW: BE 0737857634
-
-ON: 0737.875.634
-
-RPR Gent, afdeling Dendermonde
-
 <div class="page__footer-follow">
   <ul class="social-icons">
     <li><a href="http://www.twitter.com/MegaWattPuur" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -19,3 +13,9 @@ RPR Gent, afdeling Dendermonde
     <li><a href="/nieuwsbrief/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitch" aria-hidden="true"></i> nieuwsbrief</a></li> 
   </ul>
 </div>
+
+BTW: BE 0737857634
+
+ON: 0737.875.634
+
+RPR Gent, afdeling Dendermonde

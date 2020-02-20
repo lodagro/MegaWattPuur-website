@@ -1,28 +1,12 @@
 main:
-  - title: "home"
-    url: /
+  - title: "Over ons"
+    url: /over-MegaWattPuur
+  - title: "meedoen"
+    url: /meedoen
+  - title: "dak beschikbaar?"
+    url: /dak
   - title: "nieuws"
     url: /nieuws
-# - title: "vragen"
-#   url: /vaak-gestelde-vragen
   - title: "contact"
     description: Onze contact informatie.
     url: /contact
-
-side:
-    - title: "MegaWattPuur"
-      children:
-        - title: "Wie zijn wij?"
-          url: /wie-zijn-wij
-        - title: "Voor wie?"
-          url: /voor-wie
-        - title: "Wat is een REScoop?"
-          url: /wat-is-een-rescoop
-        - title: "Nieuws"
-          url: /nieuws
-          # - title: "Vaak gestelde vragen"
-          #   url: /vaak-gestelde-vragen
-          # - title: "Raad van bestuur"
-          #   url: /raad-van-bestuur
-        - title: "Contact"
-          url: /contact
