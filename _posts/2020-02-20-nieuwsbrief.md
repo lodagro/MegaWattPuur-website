@@ -5,6 +5,7 @@ header:
  image: /assets/images/2020-02-20_nieuwsbrief_groepsfoto.png
 title: nieuwsbrief
 tags: [nieuwsbrief]
+author: Wim Weyn
 ---
 
 Oprichting
