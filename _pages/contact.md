@@ -14,7 +14,7 @@ info@megawattpuur.be
   </ul>
 </div>
 
-BTW: BE 0737857634
+BTW: BE 0737875634
 
 ON: 0737.875.634
 
