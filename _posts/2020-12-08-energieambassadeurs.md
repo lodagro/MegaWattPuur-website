@@ -5,7 +5,7 @@ excerpt: We zijn door de provincie Oost-Vlaanderen verkozen als een van de tien 
 header:
  teaser: /assets/images/2020-12-08_MegaWattPuur_groepsaankoop_zonnepanelen.jpg
  image: /assets/images/pov-logo-rgb.jpg
- og-image: /assets/images/2020-12-08_MegaWattPuur_groepsaankoop_zonnepanelen.jpg
+ og_image: /assets/images/2020-12-08_MegaWattPuur_groepsaankoop_zonnepanelen.jpg
 ---
 
 Voor het vierde jaar op rij konden Oost-Vlaamse organisaties zoals lokale
