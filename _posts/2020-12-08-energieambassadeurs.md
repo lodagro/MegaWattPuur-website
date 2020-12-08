@@ -28,7 +28,7 @@ hierbij zoveel mogelijk ontzorgd. Op termijn wilen we de groepsaankoop
 aanbieden aan inwoners uit Beveren, Kruibeke, Lokeren, Moerbeke,
 Sint-Gillis-Waas, Sint-Niklaas, Stekene, Temse, Waasmunster en Zele.
 
-Niewschierig naar alle projecten, zie ook het [persbericht van de
+Niewsgierig naar alle projecten, zie ook het [persbericht van de
 provincie](https://pers.oost-vlaanderen.be/energieambassadeurs-zorgen-voor-klimaatwinst-en-ontvangen-170-720-eur-subsidie).
 
 {%include figure image_path="/assets/images/2020-12-08_MegaWattPuur_groepsaankoop_zonnepanelen.jpg" %}
