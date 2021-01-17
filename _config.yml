@@ -134,16 +134,16 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label:
       icon: "fab fa-fw fa-twitter-square"
       url: http://www.twitter.com/MegaWattPuur
-    - label: "Facebook"
+    - label:
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/MegaWattPuur
-    - label: "Instagram"
+    - label:
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/MegaWattPuur
-    - label: "nieuwsbrief"
+    - label: nieuwsbrief
       icon: "fab fa-fw fa-twitch"
       url: /nieuwsbrief/
     - label: "GitLab"

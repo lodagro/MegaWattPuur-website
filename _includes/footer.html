@@ -1,0 +1,74 @@
+<div class="page__footer-follow">
+  <section class="taxonomy__section">
+    <div class="entries-grid">
+      <div class="grid__item">
+        <h2 class="archive__item-title" itemprop="headline">MegaWattPuur cvso</h2>
+        <p itemprop="description">
+          We zijn een waas burgerinitiatief en willen volgens het coöperatieve
+          principe investeren in hernieuwbare energie en energie besparende
+          maatregelen in het Waasland. Hiermee willen we meewerken aan het
+          klimaat neutraal maken van het Waasland.
+        </p>
+      </div>
+
+      <div class="grid__item">
+        <h2 class="archive__item-title" itemprop="headline">Blijf op de hoogte</h2>
+        <p itemprop="description">
+          Ben je nog geen coöperant en wens je op de hoogte te blijven?
+          Dan kan je inschrijven op onze nieuwsbrief of ons volgen op sociale media.
+        </p>
+
+        <ul class="social-icons">
+          {% if site.footer.links %}
+            {% for link in site.footer.links %}
+              {% if link.url %}
+                <li>
+                  <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+                    <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+                      {% if link.label %}
+                        {{ link.label }}
+                      {% endif %}
+                  </a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="grid__item">
+        <h2 class="archive__item-title" itemprop="headline">Wat doen we?</h2>
+        <p itemprop="description">
+          <a href="/dak/">Dak beschikbaar?</a>
+        </p>
+      </div>
+
+      <div class="grid__item">
+        <h2 class="archive__item-title" itemprop="headline">Contact</h2>
+        <p itemprop="description">
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
+          Tulpenstraat 39, 9100 Sint-Niklaas
+        </p>
+        <p itemprop="description">
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
+          info@megawattpuur.be
+        </p>
+        <p itemprop="description">
+          BTW: BE 0737875634
+        </p>
+        <p itemprop="description">
+          ON: 0737.875.634
+        </p>
+        <p itemprop="description">
+          RPR Gent, afdeling Dendermonde
+        </p>
+
+      </div>
+
+    </div>
+  </section>
+</div>
+
+<div class="page__footer-follow">
+  <a href="/privacy-en-cookieverklaring/"><small>Bekijk onze privacie- en cookieverklaring.</small></a>
+</div>
