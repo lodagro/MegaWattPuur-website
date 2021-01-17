@@ -49,6 +49,4 @@ onze coöperanten worden gebruikt om onze projecten te realiseren. Op deze
 manier ben je als coöperant rechtstreeks mede-eigenaar, kan je mee beslissen,
 energie oogsten en genieten van de voordelen.
 
-Momenteel hebben we geen kapitaalsoproep lopen, en is het niet mogelijk om
-coöperant te worden. Je kan inschrijven op onze [nieuwsbrief](/nieuwsbrief) om
-te weten wanneer dat wel kan.
+{% include kapitaaloproep.md %}

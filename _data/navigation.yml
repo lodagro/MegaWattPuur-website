@@ -1,12 +1,16 @@
 main:
-  - title: "Over ons"
-    url: /over-MegaWattPuur
+  - title: "nieuws"
+    url: /nieuws
+  - title: "projecten"
+    url: /projecten
+  - title: "investeren"
+    url: /investeren
   - title: "meedoen"
     url: /meedoen
   - title: "dak beschikbaar?"
     url: /dak
-  - title: "nieuws"
-    url: /nieuws
+  - title: "Over ons"
+    url: /over-MegaWattPuur
   - title: "contact"
     description: Onze contact informatie.
     url: /contact

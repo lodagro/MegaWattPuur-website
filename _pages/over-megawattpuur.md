@@ -20,7 +20,7 @@ gallery2b:
     alt: "Vlaamse Landmaatschappij logo"
 
 gallery3:
-  - image_path: /assets/images/logo.jpg
+  - image_path: /assets/images/logo_transparent.png
     alt: "MegaWattPuur logo"
   - image_path: /assets/images/2018-snapshot-bestuursvergadering.jpg
     alt: "foto bestuursvergadering"
