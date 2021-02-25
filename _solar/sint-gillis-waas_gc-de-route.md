@@ -3,9 +3,7 @@ title: GC De Route
 excerpt: 214 zonnepanelen (80.25kWp / 70kVA)    uitvoering in de lente van 2021
 header:
   teaser: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg
-  image: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg
   og_image: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg
-  caption: "Foto Rudi Wielandt"
 layout: single
 share: true
 
@@ -21,6 +19,11 @@ project:
  date_installation: 2021/03/14
  subcontractor: Linea Trovata
 ---
+
+<figure>
+  <img src="/assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg">
+  <figcaption>Foto Rudi Wielandt</figcaption>
+</figure>
 
 In de lente van 2021 plaatsen we 214 zonnepanelen (80kWp / 70kVA) op GC De
 Route in Sint-Gillis-Waas

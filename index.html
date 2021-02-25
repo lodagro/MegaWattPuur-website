@@ -17,30 +17,40 @@ feature_row:
     url: "/wat-is-een-rescoop/"
 ---
 
-<div class="notice--info">
+<div class="notice">
 
-  <h1>Welkom bij MegaWattPuur. </h1>
+  <h1>Welkom bij MegaWattPuur</h1>
 
-  <p>MegaWattPuur is een Wase REScoop die investeert in hernieuwbare energie en
-  energie besparende maatregelen.</p>
+  <p>MegaWattPuur is een Wase REScoop die investeert in hernieuwbare energie en energie besparende maatregelen.</p>
 
-  <p>Hiermee willen we meewerken aan het klimaat neutraal maken van het
-  Waasland.</p>
+  <h2>Projecten</h2>
 
+  <p>We zijn dan ook heel enthousiast dat we in de komende lente onze eerste twee zon-projecten gaan uitvoeren!</p>
+
+  <ul>
+    <li>25 zonnepanelen op het dak van vzw Solidagro in Sint-Niklaas</li>
+    <li>214 zonnepanelen op GC De Route in Sint-Gillis-Waas</li>
+  </ul>
+
+  <h2>Infosessie - online 8 maart 20u</h2>
+
+  <p>Heb je interesse en wil je graag meer gedetailleerde info?</p>
+
+  <p>Op de webinar kom je alles te weten over ons, de projecten, hoe je een aandeel
+  kan kopen en wat dit juist inhoudt.</p>
+
+  <p><a href="https://avansa-wd.be/activiteiten/investeer-jij-mee-in-zonnepanelen-op-gc-de-route" class="btn btn--success">Schrijf je in voor de online infosessie op 8 maart 20u.</a></p>
 </div>
 
-{% include feature_row %}
 
+<h1>recente berichten</h1>
 
-<div class="archive">
-<section class="taxonomy__section">
 <div class="entries-grid">
-<div class="grid__item">
-<a href="/nieuws" class="btn btn--primary">bekijk alle berichten</a>
-</div>
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:4 %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
-</section>
-</div>
+
+<h2>.</h2>
+
+{% include feature_row %}

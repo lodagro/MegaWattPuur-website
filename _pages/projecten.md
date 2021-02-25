@@ -10,23 +10,17 @@ classes: wide
 Met onze projecten willen we het aandeel hernieuwbare energie in het Waasland
 verhogen.
 
-We zijn dan ook heel enthousiast dat we in de komende lente volgende twee
-projecten gaan uitvoeren!
+We zijn dan ook heel enthousiast dat we in de komende lente onze eerste twee
+zon-projecten gaan uitvoeren!
 
-{% if site.data.kapitaaloproep.active == true %}
+  * 25 zonnepanelen op het dak van vzw Solidagro in Sint-Niklaas
+  * 214 zonnepanelen op GC De Route in Sint-Gillis-Waas
 
-Momenteel heeft MegaWattPuur cvso een kapitaaloproep lopen om deze projecten te
-kunnen realiseren!
+# Infosessie - online 8 maart 20u
 
-[Lees meer over investeren bij MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-[Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
+Heb je interesse en wil je graag meer gedetailleerde info?
 
-{% else %}
+Op de webinar kom je alles te weten over ons, de projecten, hoe je een aandeel
+kan kopen en wat dit juist inhoudt.
 
-Wil je graag meedoen aan deze projecten?
-Schrijf je dan in voor onze nieuwsbrief, dan brengen we je zo op de hoogte wanneer
-de kapitaaloproep start.
- 
-[Inschrijven nieuwsbrief](/nieuwsbrief){: .btn .btn--success}
-
-{% endif %}
+[Schrijf je in voor de online infosessie op 8 maart 20u.](https://avansa-wd.be/activiteiten/investeer-jij-mee-in-zonnepanelen-op-gc-de-route){: .btn .btn--success}

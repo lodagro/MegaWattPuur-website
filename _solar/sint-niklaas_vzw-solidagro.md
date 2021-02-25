@@ -3,7 +3,6 @@ title: vzw Solidagro
 excerpt: 25 zonnepanelen (9.3kWp / 6kVA)    uitvoering in de lente van 2021
 header:
  teaser: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/solidagro_001.png
- image: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/solidagro_001.png
  og-image: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/solidagro_001.png
 layout: single
 share: true
@@ -16,6 +15,10 @@ city: Sint-Niklaas
 nb_panels: 25
 
 ---
+
+<figure>
+  <img src="/assets/images/projects/solar/sint-niklaas/vzw-solidagro/solidagro_001.png">
+</figure>
 
 In de lente van 2021 plaatsen we 25 zonnepanelen bij vzw Solidagro in
 Sint-Niklaas.
