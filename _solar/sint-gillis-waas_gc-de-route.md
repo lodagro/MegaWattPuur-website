@@ -43,7 +43,7 @@ lokaal groene energie opgewekt!
 Momenteel heeft MegaWattPuur cvso een kapitaaloproep lopen om dit project te
 kunnen realiseren!
 
-[Lees meer over investeren bij MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
+[Lees meer over investeren bij MegaWattPuur.](/investeren){: .btn .btn--success}
 [Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
 
 {% else %}

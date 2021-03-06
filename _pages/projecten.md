@@ -24,3 +24,8 @@ Op de webinar kom je alles te weten over ons, de projecten, hoe je een aandeel
 kan kopen en wat dit juist inhoudt.
 
 [Schrijf je in voor de online infosessie op 8 maart 20u.](https://avansa-wd.be/activiteiten/investeer-jij-mee-in-zonnepanelen-op-gc-de-route){: .btn .btn--success}
+
+# koop aandelen - vanaf 8 maart 21u
+
+[Koop hier aandelen van MegaWattPuur cvso.](http://aandelen.megawattpuur.be){: .btn .btn--success}
+
