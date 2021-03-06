@@ -34,9 +34,7 @@ van de coöperatie.
 
 * [statuten MegaWattPuur cvso](/assets/MegaWattPuur-statuten-2020.pdf)
 {% if site.data.kapitaaloproep.active == true %}
-
-* informatienota aanbieding aandelen
-
+* [informatiefiche aanbieding aandelen](/assets/Informatiefiche-MegaWattPuur-kapitaaloproep-maart-2021.pdf)
 {% endif %}
 
 
@@ -63,10 +61,10 @@ Dan kan je inschrijven op onze nieuwsbrief.
 Een aandeel kost €125 en is op naam. In de voorwaarden van de kapitaalsoproep
 wordt bepaald hoeveel aandelen er kunnen aangekocht worden. Per kapitaalsoproep
 openen we een inschrijvingsformulier waarop je jouw gegevens invult, daarna
-word je doorgestuurd naar een betaalpagina. Je kan kiezen tussen bancontact of
-overschrijving. De aankoop gaat in van zodra de aankoopsom op de rekening van
-MegaWattPuur cvso staat. Je ontvangt na betaling en registratie via e-mail een
-uittreksel op naam uit het aandeelhoudersregister.
+word je doorgestuurd naar een betaalpagina.  De aankoop gaat in van zodra de
+aankoopsom op de rekening van MegaWattPuur cvso staat. Je ontvangt na betaling
+en registratie via e-mail een uittreksel op naam uit het
+aandeelhoudersregister.
 
 {% if site.data.kapitaaloproep.active != true %}
 
