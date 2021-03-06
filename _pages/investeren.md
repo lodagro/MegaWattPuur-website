@@ -111,7 +111,22 @@ verleden zijn geen garantie voor de toekomst.
 
 ## Moet ik roerende voorheffing betalen op mijn dividend?
 
-Ja, 30%. Wij zorgen voor het papierwerk.
+Dividenen tot 800 euro zijn vrijgesteld van roerende voorheffing.
+Daarboven is een roerende voorheffing van 30%.
+Indien we een dividend zouden uitbetalen zijn we verplicht om hiervan 30%
+roerende voorheffing af te houden. Wij zorgen voor een attest waarmee u dit
+eventueel kan terugvorderen via uw belastingsaangifte.
+
+## Is tax shelter van toepassing?
+
+Tax shelter is van toepassing. Maar niet op alle aandelen, we willen zo veel
+mogelijk coöperanten van dit fiscale voordeel laten genieten. Daarom is het
+enkele van toepassing op het tweede en vierde aandeel dat u koopt.
+
+Voor elk tax shelter aandeel krijgt u een eenmalige belastingvermindering van
+45% van uw investering.
+
+Voor meer info over tax shelter: [financien.belgium.be](https://financien.belgium.be/nl/particulieren/belastingvoordelen/investeren-in-kleine-onderneming-tax-shelter-start-up-scale-up)
 
 ## Wat met aandelen van MegaWattPuur bij overlijden?
 
