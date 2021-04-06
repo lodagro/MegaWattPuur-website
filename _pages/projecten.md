@@ -10,22 +10,14 @@ classes: wide
 Met onze projecten willen we het aandeel hernieuwbare energie in het Waasland
 verhogen.
 
-We zijn dan ook heel enthousiast dat we in de komende lente onze eerste twee
-zon-projecten gaan uitvoeren!
+Momenteel zijn we onze eerste twee zon-projecten aan het uitvoeren!
 
   * 25 zonnepanelen op het dak van vzw Solidagro in Sint-Niklaas
   * 214 zonnepanelen op GC De Route in Sint-Gillis-Waas
 
-# Infosessie - online 8 maart 20u
 
-Heb je interesse en wil je graag meer gedetailleerde info?
+Heb je interesse en wil je graag meer gedetailleerde info rond investeren?
 
-Op de webinar kom je alles te weten over ons, de projecten, hoe je een aandeel
-kan kopen en wat dit juist inhoudt.
-
-[Schrijf je in voor de online infosessie op 8 maart 20u.](https://avansa-wd.be/activiteiten/investeer-jij-mee-in-zonnepanelen-op-gc-de-route){: .btn .btn--success}
-
-# koop aandelen - vanaf 8 maart 21u
+[details Kapitaaloproep](/nieuws/2021/03/20/kapitaaloproep.html){: .btn .btn--success}
 
 [Koop hier aandelen van MegaWattPuur cvso.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-
