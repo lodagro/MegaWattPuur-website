@@ -119,7 +119,10 @@ eventueel kan terugvorderen via uw belastingsaangifte.
 
 Tax shelter is van toepassing. Maar niet op alle aandelen, we willen zo veel
 mogelijk coöperanten van dit fiscale voordeel laten genieten. Daarom is het
-enkel van toepassing op het tweede en vierde aandeel dat u koopt.
+enkel van toepassing op het 2e, 4e, 6e, 8e en 10e aandeel dat u koopt.
+
+Koopt u bijvoorbeeld vijf aandelen, dan vallen er twee onder tax shelter. Koop u
+twintig aandelen dan vallen er vijf (het maximum) onder tax shelter.
 
 Voor elk tax shelter aandeel krijgt u een eenmalige belastingvermindering van
 45% van uw investering.
