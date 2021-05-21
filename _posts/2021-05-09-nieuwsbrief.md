@@ -2,6 +2,9 @@
 toc: true
 toc_sticky: true
 excerpt:
+header:
+  teaser: /assets/images/nieuwsbrief.png
+  og_image: /assets/images/nieuwsbrief.png
 title: nieuwsbrief mei 2012
 tags: [nieuwsbrief]
 author: Frauke Van Goethem
