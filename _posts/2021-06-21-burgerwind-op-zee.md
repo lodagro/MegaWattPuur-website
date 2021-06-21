@@ -49,6 +49,7 @@ gebeuren via Koninklijke Besluiten.
 * [FOCUS - burgers kunnen participeren in windturbines](https://www.focus-wtv.be/nieuws/burgers-kunnen-participeren-windturbines)
 * [Nieuwsblad - Project Burgerwind op Zee: koop uw eigen stukje windturbine](https://www.nieuwsblad.be/cnt/dmf20210621_94402420)
 * [De Standaard - Burgercoöperaties willen deel van offshorekoek](https://www.standaard.be/cnt/dmf20210620_97628888)
+* [De Standaard - 6 VRAGEN PARTICIPEREN IN WINDENERGIE Coöperaties zoeken 250 miljoen voor windparken op zee](https://www.standaard.be/cnt/dmf20210621_97183666)
 
 <figure>
   <img src="/assets/images/2021-05-20_burgerenergie_01.gif">
