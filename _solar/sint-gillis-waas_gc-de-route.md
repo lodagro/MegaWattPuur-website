@@ -1,9 +1,9 @@
 ---
 title: GC De Route
-excerpt: 214 zonnepanelen (80.25kWp / 70kVA)    uitvoering in de lente van 2021
+excerpt: 214 zonnepanelen (80.25kWp / 70kVA)
 header:
-  teaser: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg
-  og_image: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg
+  teaser: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/pv_gc_de_route_01.jpg
+  og_image: /assets/images/projects/solar/sint-gillis-waas/gc-de-route/pv_gc_de_route_02.jpg
 layout: single
 share: true
 
@@ -20,37 +20,9 @@ project:
  subcontractor: Linea Trovata
 ---
 
-<figure>
-  <img src="/assets/images/projects/solar/sint-gillis-waas/gc-de-route/dak_voor_01.jpg">
-  <figcaption>Foto Rudi Wielandt</figcaption>
-</figure>
+{%include figure image_path="/assets/images/projects/solar/sint-gillis-waas/gc-de-route/pv_gc_de_route_02.jpg" %}
 
-In de lente van 2021 plaatsen we 214 zonnepanelen (80kWp / 70kVA) op GC De
+In de lente van 2021 plaatsten we 214 zonnepanelen (80kWp / 70kVA) op GC De
 Route in Sint-Gillis-Waas
 
-De gemeente Sint-Gillis-Waas voorziet met de medewerking van MegaWattPuur cvso
-zonnepanelen op het dak van GC De Route. De financiering van deze zonnepanelen
-gebeurt met burgerkapitaal.
-
-MegaWattPuur zorgt voor de installatie, plaatsing en onderhoud van de panelen.
-De gemeente Sint-Gillis-Waas koopt in ruil de elektriciteit die wordt opgewekt
-door de panelen. In totaal is dit project goed voor 77.345 kWh productie per
-jaar. Zo betaalt de gemeente minder aan elektriciteit en wordt er
-lokaal groene energie opgewekt!
-
-{% if site.data.kapitaaloproep.active == true %}
-
-Momenteel heeft MegaWattPuur cvso een kapitaaloproep lopen om dit project te
-kunnen realiseren!
-
-[Lees meer over investeren bij MegaWattPuur.](/investeren){: .btn .btn--success}
-[Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-
-{% else %}
-
-Wil je graag weten wanneer onze kapitaaloproep start om dit project te kunnen
-relaliseren? Schrijf je dan in voor onze nieuwsbrief.
-
-[Inschrijven nieuwsbrief](/nieuwsbrief){: .btn .btn--success}
-
-{% endif %}
+{% include video id="h4i2ptRFm3g" provider="youtube" %}
