@@ -5,7 +5,7 @@ excerpt:
 header:
   teaser: /assets/images/nieuwsbrief.png
   og_image: /assets/images/nieuwsbrief.png
-title: nieuwsbrief mei 2012
+title: nieuwsbrief mei 2021
 tags: [nieuwsbrief]
 author: Frauke Van Goethem
 ---
