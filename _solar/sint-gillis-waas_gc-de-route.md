@@ -19,10 +19,11 @@ project:
  date_installation: 2021/03/14
  subcontractor: Linea Trovata
 ---
-
-{%include figure image_path="/assets/images/projects/solar/sint-gillis-waas/gc-de-route/pv_gc_de_route_02.jpg" %}
-
 In de lente van 2021 plaatsten we 214 zonnepanelen (80kWp / 70kVA) op GC De
 Route in Sint-Gillis-Waas
 
+{%include figure image_path="/assets/images/projects/solar/sint-gillis-waas/gc-de-route/pv_gc_de_route_02.jpg" %}
+
 {% include video id="h4i2ptRFm3g" provider="youtube" %}
+
+[productie bekijken](https://www.sunnyportal.com/Templates/PublicPage.aspx?page=8a487a17-bdd0-4834-8d77-61b7a86b8812){: .btn .btn--primary .btn--x-large}
