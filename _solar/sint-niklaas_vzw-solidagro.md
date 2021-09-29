@@ -12,7 +12,7 @@ gallery:
   - url: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/pv_solidagro_03.jpg
     image_path: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/pv_solidagro_03.jpg
   - url: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/pv_solidagro_04.jpg
-    image_path: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/pv_solidagro_03.jpg
+    image_path: /assets/images/projects/solar/sint-niklaas/vzw-solidagro/pv_solidagro_04.jpg
 
 project: vzw Solidagro
 organisation: vzw Solidagro
