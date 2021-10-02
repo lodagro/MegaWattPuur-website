@@ -1,10 +1,10 @@
 .PHONY:site
 site:
-	JEKYLL_ENV=production bundle exec jekyll build
+	JEKYLL_ENV=production bundle exec jekyll build --trace
 
 .PHONY:serve
 serve:
-	JEKYLL_ENV=development bundle exec jekyll serve --verbose --watch
+	JEKYLL_ENV=development bundle exec jekyll serve --verbose --watch --trace
 
 .PHONY:release
 release: site
