@@ -184,3 +184,13 @@ Voeg bij de vraag tot verkoop van aandelen of uittreding steeds een kopie van
 je identiteitskaart. Je mag de brief en de documenten inscannen en per e-mail
 opsturen naar info@megawattpuur.be of opsturen per post naar Tulpenstraat 39,
 9100 Sint-Niklaas.
+
+## Label Solidaire Financiering
+
+De door Megawattpuur CV uitgegeven coöperatieve aandelen hebben het label
+"Solidaire financiering" ontvangen. Het label bevestigt dat het financiële
+product activiteiten financiert die sociale en/of milieuvoordelen opleveren.
+Het label garandeert ook dat de belegger transparante en volledige informatie
+over het financiële product ontvangt.
+
+{%include figure image_path="/assets/images/logo_label_finance_solidaire_web.png" %}
