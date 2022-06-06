@@ -1,6 +1,6 @@
 ---
 title: Avansa Waas en Dender
-excerpt: warmtepomp en zonnepanelen
+excerpt: warmtepomp, zonnepanelen en ventillatie
 header:
   teaser: /assets/images/avansa-dicht.jpg
   og_image: /assets/images/avansa-ver.jpg
