@@ -23,4 +23,7 @@ Inschrijven kan, maar is niet verplicht. **Mis deze avond niet.**
 
 [inschrijven](https://forms.gle/euY61XU4HxmjKYgs7){: .btn .btn--success}
 
+[presentatie](/assets/images/projects/solar/sint-niklaas/lab/20221014_LAB_Sint-Niklaas_v1.pdf){: .btn .btn--success}
+
 ![foto](/assets/images/2022-10-02-lab-infomoment_02.png)
+

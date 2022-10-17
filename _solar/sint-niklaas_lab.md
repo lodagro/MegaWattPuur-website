@@ -32,6 +32,17 @@ realiseren!
 
 # tijdlijn
 
+## 14 oktober 2022: infoavond
+
+Een info-avond in de LAB school te Sint-Niklaas, we vertelden uitgebreid over
+ons project, **hoe je kan meedoen** met onze burgercooperatie en **wat het voor
+jou oplevert**.  Burgerenergie is een success-formule voor stabielere
+energieprijzen, handig in de huidige energiecrisis.
+
+[presentatie](/assets/images/projects/solar/sint-niklaas/lab/20221014_LAB_Sint-Niklaas_v1.pdf){: .btn .btn--success}
+
+![foto](/assets/images/projects/solar/sint-niklaas/lab/PXL_20221014_180215082_rescaled.jpg)
+
 ## 25 mei 2022: werfbezoek
 
 {% include gallery %}
