@@ -23,9 +23,3 @@ hoog ingezet op isolatie en gebruik van duurzame technieken. Samen gaan we nu
 nog een stap verder door het plaatsen van zonnepanelen en een warmtepomp. Deze
 laatste zal het gebouw niet enkel verwarmen, maar ook beperkt koelen op zwoele
 zomerdagen.
-
-Momenteel heeft MegaWattPuur cvso een kapitaaloproep lopen om dit project te
-kunnen realiseren in de loop van 2022!
-
-[Lees meer over investeren bij MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-[Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
