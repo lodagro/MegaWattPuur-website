@@ -21,16 +21,18 @@ bedrijfswereld de deuren van een nieuw LAB in Sint-Niklaas. Doel: leerlingen
 uit het secundair onderwijs goesting geven om te blijven leren en andere
 scholen uit de regio inspireren.
 
-MegaWattPuur voorziet een pv installatie van 82kWp/50kVA op hun nieuwbouw. Het
-hele dak zal vol liggen met pv panelen.
-
-Momenteel hebben we een kapitaaloproep lopen om dit project te kunnen
-realiseren!
-
-[Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-[Lees meer over investeren bij MegaWattPuur.](/investeren){: .btn .btn--success}
+MegaWattPuur voorziet een zonne-installatie van 82kWp/50kVA op hun nieuwbouw. Het
+hele dak zal vol liggen met #burgerenergie.
 
 # tijdlijn
+
+## 11 januari 2023: start plaatsing
+
+Vandaag is Linea Trovata gestart met het plaatsen van de draagstructuren,
+bekabeling en omvormer. Dit zal enkele dagen duren. Later deze maand volgen de
+zonnepanelen.
+
+![foto](/assets/images/projects/solar/sint-niklaas/lab/20230111_LAB_plaatsing.jpeg)
 
 ## 14 oktober 2022: infoavond
 
@@ -52,5 +54,5 @@ energieprijzen, handig in de huidige energiecrisis.
 
 We krijgen melding dat de raad van bestuur van LAB school Sint-Niklaas heeft
 beslist om de installatie van zonnepanelen te gunnen aan ons.
-
+:
 ## 4 maart 2022: uitnodiging tot offerte
