@@ -10,13 +10,16 @@ share: true
 ---
 
 We hebben met WeTech academy, de vroegere VTS in de Breedstraat te
-Sint-Niklaas, een princiepsakkoord om een PV installatie te realiseren in de
-herfst van 2021.  Na de geplande dakrenovatie van het betrokken gebouw, gaan we
-er een PV-installatie van 200 zonnepanelen met een vermogen van 75 KWp
-installeren.
+Sint-Niklaas, een princiepsakkoord om een PV installatie te realiseren.  Na de
+geplande dakrenovatie van het betrokken gebouw, en vervanging van de
+hoogspanningscabine gaan we er een PV-installatie
+van 200 zonnepanelen met een vermogen van 75 KWp installeren.
 
-Momenteel heeft MegaWattPuur cvso een kapitaaloproep lopen om dit project te
-kunnen realiseren in de loop van herfst 2021!
 
-[Lees meer over investeren bij MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
-[Koop hier aandelen van MegaWattPuur.](http://aandelen.megawattpuur.be){: .btn .btn--success}
+# tijdlijn
+
+## najaar 2023 - vernieuwen hoogspanningscabine
+
+## herfst 2021 - dakrenovatie
+
+{%include figure image_path="/assets/images/projects/solar/sint-niklaas/weTech/E-oBnReXsAkmk_H.jpeg" %}
