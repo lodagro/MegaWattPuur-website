@@ -26,14 +26,19 @@ schaalvergroting. Alleen de melkvee-tak werd behouden.
 
 De laatste jaren veranderde de bedrijfsstrategie. De slinger was immers te ver
 overgeslagen. Nu wordt er -net als vroeger- terug meer ingezet op verbreding en
-diversiteit, zowel op het veld als in de stal. Op die manier willen we tot een
+diversiteit, zowel op het veld als in de stal. Op die manier willen ze tot een
 toekomstbestendig landbouwbedrijf komen.
 
 Het bedrijf is op vandaag in handen van Kris en Ginny. Maar alhoewel ze op
 pensioen zijn, helpen Lea en Paul nog actief mee. Ook de kinderen Lars, Bente
 en Fenna steken al eens graag de handen uit de mouwen.
 
-[Meer info over Heirbaut Hoeveproducten](https://www.heirbauthoeveproducten.be/){: .btn .btn--success}
+Meer info over Heirbaut Hoeveproducten via:
+
+  * [website Heirbaut Hoeveproducten](https://www.heirbauthoeveproducten.be/)
+  * [vilt: Uitgespit - circulaire bedrijfsvoering en algenteelt](https://vilt.be/nl/nieuws/uitgespit-circulaire-bedrijfsvoering-en-algenteelt-bij-hoeveproducten-heirbaut)
+  * [tvOost: Kaas, wafels, chocolade, thee en ijs van eigen algen](https://www.tvoost.be/nieuws/landbouwer-uit-temse-maakt-kaas-wafels-chocolade-thee-en-ijs-van-eigen-algen-146679)
+  * [artikel De Standaard](https://www.standaard.be/cnt/dmf20221124_98619639)
 
 MegaWattPuur voorziet een zonne-installatie van 168 zonnepanelen (70 kWp / 50 kVA).
 
