@@ -26,6 +26,14 @@ hele dak zal vol liggen met #burgerenergie.
 
 # tijdlijn
 
+## 7 maart 2023: plaatsing panelen
+
+Met heel wat vertraging zijn de panelen eindelijk toegekomen bij onze
+installateur. Die ze dan snel op het dak heeft geplaatst. Dit in uitdagende
+weersomstandigheden.
+
+![foto](/assets/images/projects/solar/sint-niklaas/lab/a099a147-ee8d-4b1f-b3b8-b8ed63be525d.jfif)
+
 ## 11 januari 2023: start plaatsing
 
 Vandaag is Linea Trovata gestart met het plaatsen van de draagstructuren,
