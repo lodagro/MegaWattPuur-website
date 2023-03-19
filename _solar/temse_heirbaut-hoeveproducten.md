@@ -29,7 +29,7 @@ overgeslagen. Nu wordt er -net als vroeger- terug meer ingezet op verbreding en
 diversiteit, zowel op het veld als in de stal. Op die manier willen ze tot een
 toekomstbestendig landbouwbedrijf komen.
 
-Het bedrijf is op vandaag in handen van Kris en Ginny. Maar alhoewel ze op
+Het bedrijf is vandaag in handen van Kris en Ginny. Maar alhoewel ze op
 pensioen zijn, helpen Lea en Paul nog actief mee. Ook de kinderen Lars, Bente
 en Fenna steken al eens graag de handen uit de mouwen.
 
