@@ -1,5 +1,5 @@
 ---
-excerpt: xDag van de wind? De beste foto wint!
+excerpt: Dag van de wind? De beste foto wint!
 header:
   teaser: assets/images/2023-06-03_windactie_02.jpg
   og_image: assets/images/2023-06-03_windactie_02.jpg
