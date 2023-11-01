@@ -35,24 +35,40 @@ en Fenna steken al eens graag de handen uit de mouwen.
 
 Meer info over Heirbaut Hoeveproducten via:
 
-  * [website Heirbaut Hoeveproducten](https://www.heirbauthoeveproducten.be/)
-  * [vilt: Uitgespit - circulaire bedrijfsvoering en algenteelt](https://vilt.be/nl/nieuws/uitgespit-circulaire-bedrijfsvoering-en-algenteelt-bij-hoeveproducten-heirbaut)
-  * [tvOost: Kaas, wafels, chocolade, thee en ijs van eigen algen](https://www.tvoost.be/nieuws/landbouwer-uit-temse-maakt-kaas-wafels-chocolade-thee-en-ijs-van-eigen-algen-146679)
-  * [artikel De Standaard](https://www.standaard.be/cnt/dmf20221124_98619639)
+* [website Heirbaut Hoeveproducten](https://www.heirbauthoeveproducten.be/)
+* [vilt: Uitgespit - circulaire bedrijfsvoering en algenteelt](https://vilt.be/nl/nieuws/uitgespit-circulaire-bedrijfsvoering-en-algenteelt-bij-hoeveproducten-heirbaut)
+* [tvOost: Kaas, wafels, chocolade, thee en ijs van eigen algen](https://www.tvoost.be/nieuws/landbouwer-uit-temse-maakt-kaas-wafels-chocolade-thee-en-ijs-van-eigen-algen-146679)
+* [artikel De Standaard](https://www.standaard.be/cnt/dmf20221124_98619639)
 
 MegaWattPuur voorziet een zonne-installatie van 168 zonnepanelen (70 kWp / 50 kVA).
 
+## tijdlijn
 
-# tijdlijn
+### 11 november 2023: opstart installatie
 
-## 10 januari 2023: bestelling installatie
+De installatie in ondertussen volledig afgewerkt en is vandaag ook gekeurd.
+We hebben ook de toelating van Fluvius om de installatie op te starten.
+Een matig zonnige dag vandaag, maar toch productie aan bijna 40% van het maximum
+vermogen.
+
+![foto](/assets/images/projects/solar/temse/heirbaut_hoeveproducten/IMG-20231011-WA0000.jpg )
+
+### 12 juli 2023: plaatsing installatie
+
+Deze week is de plaatsing van de installatie gestart.
+Helaas zijn niet alle onderdelen voor het ontkoppelbord beschikbaar, hievoor
+zullen we moeten wachten tot na het bouwverlof.
+
+![foto](/assets/images/projects/solar/temse/heirbaut_hoeveproducten/IMG-20230712-WA0001.jpg)
+
+### 10 januari 2023: bestelling installatie
 
 We hebben afgesproken met Kris en Ginny om onze handtekeningen te plaatsen onder
 onze samenwerking. MegaWattPuur investeert in een nieuwe zonne-installatie.
 
 De dak en netstudie zijn al achter de rug en hebben beiden een gunstig resultaat.
 
-## 7 juli 2022 : plaatsbezoek
+### 7 juli 2022 : plaatsbezoek
 
 Naar aanleiding van het project 'pv-scans' bij landbouwers dat we in
 samenwerking met Interwaas uitvoeren, komen we op bezoek bij Kris en Ginny. We
