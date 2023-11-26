@@ -44,7 +44,7 @@ MegaWattPuur voorziet een zonne-installatie van 168 zonnepanelen (70 kWp / 50 kV
 
 ## tijdlijn
 
-### 11 november 2023: opstart installatie
+### 11 oktober 2023: opstart installatie
 
 De installatie in ondertussen volledig afgewerkt en is vandaag ook gekeurd.
 We hebben ook de toelating van Fluvius om de installatie op te starten.
