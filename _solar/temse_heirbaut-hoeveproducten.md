@@ -42,6 +42,8 @@ Meer info over Heirbaut Hoeveproducten via:
 
 MegaWattPuur voorziet een zonne-installatie van 168 zonnepanelen (70 kWp / 50 kVA).
 
+![foto](/assets/images/projects/solar/temse/heirbaut_hoeveproducten/aLgriculture.png)
+
 ## tijdlijn
 
 ### 11 oktober 2023: opstart installatie
