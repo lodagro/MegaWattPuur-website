@@ -117,10 +117,10 @@ eventueel kan terugvorderen via uw belastingsaangifte.
 
 ## Is tax shelter van toepassing?
 
-Tax shelter is van toepassing op elk aandeel van de huidige kapitaalsoproep.
+Voor nieuwe aandelen is tax shelter niet van toepassing.
 
-Voor elk tax shelter aandeel krijgt u een eenmalige belastingvermindering van
-45% van uw investering.
+Heb je ooit een aandeel gekocht onder het tax shelter systeem dan blijft dit
+uiteraard van toepassing.
 
 Voor meer info over tax shelter: [financien.belgium.be](https://financien.belgium.be/nl/particulieren/belastingvoordelen/investeren-in-kleine-onderneming-tax-shelter-start-up-scale-up)
 
