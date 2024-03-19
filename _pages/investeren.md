@@ -7,7 +7,7 @@ title: Samen investeren - Activeer je spaargeld
 ---
 
 Activeer je spaargeld en zet het in voor meer hernieuwbare energie en
-energiebesparing in het Waasland!
+energiebesparing in het Waasland! Bovendien kan je er ook de de voordelen van oogsten!
 
 {% include kapitaaloproep.md %}
 
